@@ -1,6 +1,6 @@
-# web_app
-
-A new Flutter project.
+# Harvest (Movie-harvest)
+Harvest is a web app designed to provide users with comprehensive help regarding movies and shows. The app offers detailed information on movies, TV shows, and nearby cinema halls.
+-[Main Repo](https://github.com/A-nirvana/Absolute-Cinema)
 
 ## Getting Started
 
